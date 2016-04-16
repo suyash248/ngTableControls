@@ -2,6 +2,9 @@
 
 >This is angular js directive meant for adding a few table control tools on the top of any HTML table.
 
+#### Demo
+[Click here](https://plnkr.co/edit/eqBO7W?p=preview) to see this in action.
+
 #### Getting Started
 ```sh
 <link rel="stylesheet" href="/table-controls/css/table_controls.css">
