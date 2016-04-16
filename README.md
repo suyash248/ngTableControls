@@ -8,6 +8,9 @@
 <script src="/table-controls/js/table_controls.js"></script>
 ```
 
+##### Dependcencies
+[Bootstrap](http://getbootstrap.com/getting-started/#download), [Fontawesome](http://fortawesome.github.io/Font-Awesome/icons/)
+
 #### Usage
 ```sh
 <table-controls data-ng-model="filterText.firstName">
